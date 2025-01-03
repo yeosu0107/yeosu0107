@@ -7,9 +7,9 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{yeosu0107}"/>
 </a>
-
+<br/><br/>
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{sungwoo-hackle}"/>
+  <img src="https://render.gitanimals.org/farms/{sungwoo-hackle}"/>
 </a>
 
 <!---
